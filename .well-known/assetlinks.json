@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shieldnetx",
+    "sha256_cert_fingerprints":
+    ["4C:8B:F3:FB:70:05:26:DF:15:40:47:A9:D4:78:7D:34:C2:03:4F:22:AB:21:32:E7:40:71:4A:36:3E:20:10:C0:C9:D9:82:87:9D:35"]
+  }
+}]
